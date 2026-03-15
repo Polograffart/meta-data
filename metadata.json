@@ -1,0 +1,5 @@
+{
+  "name": "Microstock Metadata Generator",
+  "description": "Automatically generate optimized metadata for microstock images and videos using AI.",
+  "requestFramePermissions": []
+}
